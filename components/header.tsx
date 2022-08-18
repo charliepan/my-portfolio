@@ -11,19 +11,8 @@ const Header: React.FC = () => (
             <Link href="/">
               <a className="text-gray-500 hover:text-pink-700">Home</a>
             </Link>
-            <Link href="/about-us">
-              <a className="text-gray-500 hover:text-pink-700">About us</a>
-            </Link>
-            <Link href="/blog">
-              <a className="text-gray-500 hover:text-pink-700">Blog</a>
-            </Link>
           </div>
         </div>
-        <Link href="/admin" prefetch={false}>
-          <a className="py-2 px-5 rounded text-white font-medium bg-cyan-500 hover:bg-cyan-600 hover:shadow-lg transition duration-200">
-            Edit content
-          </a>
-        </Link>
       </div>
     </div>
   </header>
