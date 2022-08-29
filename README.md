@@ -7,7 +7,7 @@
 ## This porfolio uses:
 - [React Bricks](https://reactbricks.com) specifically [the starter kit.](https://github.com/reactbricks/nextjs-starter-reactbricks-tailwind)
 - [Next.js](https://nextjs.org/docs)
-- [Tailwind](https://tailwindcss.com/docs/installation)
+- [Tailwindcss](https://tailwindcss.com/docs/installation)
 
 ## Documentation
 ...more to come
